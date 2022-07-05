@@ -1,1 +1,1 @@
-worker: python3 zenon/zenon.py
+worker: python3 zenon/zenontest.py
